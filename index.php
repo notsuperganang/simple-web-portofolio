@@ -331,7 +331,7 @@
             <a href="https://twitter.com/imma_salty" target="_blank"><i data-feather="twitter"></i></a>
             <a href="https://www.linkedin.com/in/ganang-setyo-hadi/" target="_blank"><i data-feather="linkedin"></i></a>
         </div>
-        <p>&#169; 2024 - Made by Ganang Setyo Hadi</p>
+        <p>&#169; <?php echo date("Y"); ?> - Made by Ganang Setyo Hadi</p>
     </footer>
     <!-- End Of Footer -->
 
